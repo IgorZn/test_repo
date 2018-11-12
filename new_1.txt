@@ -3,5 +3,5 @@ New line after commite in qa_FLOW
 
 ===============
 новая линия
-еще одна линия
 Новая бранча New_BR
+
